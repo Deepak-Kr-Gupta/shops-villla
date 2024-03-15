@@ -1,0 +1,321 @@
+{
+  "sections": {
+    "video_slideshow_niC3Ab": {
+      "type": "video-slideshow",
+      "blocks": {
+        "slide_aJ3FjT": {
+          "type": "slide",
+          "settings": {
+            "slide_type": "Image_Slide",
+            "image": "shopify:\/\/shop_images\/woman-athlete-tying-shoes.jpg",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=zsu2WRFaUoQ",
+            "heading": "Women's Collection",
+            "heading_size": "h2",
+            "subheading": "Trending Now",
+            "button_label": "Button label",
+            "link": "shopify:\/\/collections\/women",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_xJtbQU": {
+          "type": "slide",
+          "settings": {
+            "slide_type": "Video_Slide",
+            "image": "shopify:\/\/shop_images\/bearded-young-man.jpg",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=fb7Pwrl_dD4",
+            "heading": "Men's Collection",
+            "heading_size": "h2",
+            "subheading": "Trending Now",
+            "button_label": "Button label",
+            "link": "shopify:\/\/collections\/men",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_aJ3FjT",
+        "slide_xJtbQU"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection_Y8fhV9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Products",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "featured",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 68,
+        "padding_bottom": 68
+      }
+    },
+    "featured_product_9Hq9WW": {
+      "type": "featured-product",
+      "blocks": {
+        "text_y7fakz": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_trqUCi": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "price_AytAUc": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_nJQApH": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_URMXgN": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_m7Qxmd": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_wJdeMk": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_y7fakz",
+        "title_trqUCi",
+        "price_AytAUc",
+        "variant_picker_nJQApH",
+        "quantity_selector_URMXgN",
+        "buy_buttons_m7Qxmd",
+        "share_wJdeMk"
+      ],
+      "settings": {
+        "product": "shops-villa-gift-card",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_WKgb3j": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Xp3LGF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sneaker",
+            "heading_size": "h1"
+          }
+        },
+        "text_Y9agwR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Introducing the Converse Chuck Taylor All Star II Hi sneaker. Retaining the revolutionary silhouette we all rely on, but now made ever better. New features include Lunarlon sockliner adds cushioning and arch support. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_WxJtXb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/converse-chuck-taylor-all-star-ii-hi",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xp3LGF",
+        "text_Y9agwR",
+        "button_WxJtXb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/rooftopper-looking-down.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_Te9gWm": {
+      "type": "collage",
+      "blocks": {
+        "image_KM8jXt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/light-up-shoes.jpg"
+          }
+        },
+        "product_U69QLX": {
+          "type": "product",
+          "settings": {
+            "product": "converse-chuck-taylor-all-star-ii-hi",
+            "second_image": false
+          }
+        },
+        "collection_ixDjPh": {
+          "type": "collection",
+          "settings": {
+            "collection": "converse"
+          }
+        }
+      },
+      "block_order": [
+        "image_KM8jXt",
+        "product_U69QLX",
+        "collection_ixDjPh"
+      ],
+      "settings": {
+        "heading": "Convers",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_EB4xmG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_k87XLh": {
+          "type": "heading",
+          "settings": {
+            "heading": "ADIDAS BACKPACK",
+            "heading_size": "h1"
+          }
+        },
+        "text_Qbm3bV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The adidas BP Classic Cap features a pre-curved brim to keep your face shaded, while a hook-and-loop adjustable closure provides a comfortable fit.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_UAGzPn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/adidas-classic-backpack-legend-ink-multicolour",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_k87XLh",
+        "text_Qbm3bV",
+        "button_UAGzPn"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/casual-black-backpack.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_nTjgcA": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog",
+        "heading_size": "h1",
+        "blog": "news",
+        "post_limit": 2,
+        "columns_desktop": 2,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "video_slideshow_niC3Ab",
+    "featured_collection_Y8fhV9",
+    "featured_product_9Hq9WW",
+    "image_with_text_WKgb3j",
+    "collage_Te9gWm",
+    "image_with_text_EB4xmG",
+    "featured_blog_nTjgcA"
+  ]
+}
