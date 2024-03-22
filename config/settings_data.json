@@ -174,6 +174,12 @@
           "popup_link": "#121212",
           "popup_backdrop": "#fdf2f4"
         }
+      },
+      "7198957708244385185": {
+        "type": "shopify:\/\/apps\/avada-upsell-cross-sell-bundle\/blocks\/app-embed\/de98edfe-90fa-4145-8a57-1055e0058723",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
